@@ -1,0 +1,244 @@
+{
+  "meals": [
+    {
+      "strMeal": "Beef and Mustard Pie",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/sytuqu1511553755.jpg",
+      "idMeal": "52874",
+      "strCategory": "Beef"
+    },
+    {
+      "strMeal": "Beef and Oyster pie",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/wrssvt1511556563.jpg",
+      "idMeal": "52878",
+      "strCategory": "Beef"
+    },
+    {
+      "strMeal": "Beef Asado",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/pkopc31683207947.jpg",
+      "idMeal": "53071",
+      "strCategory": "Beef"
+    },
+    {
+      "strMeal": "Breakfast Potatoes",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/1550441882.jpg",
+      "idMeal": "52965",
+      "strCategory": "Breakfast"
+    },
+    {
+      "strMeal": "English Breakfast",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/utxryw1511721587.jpg",
+      "idMeal": "52895",
+      "strCategory": "Breakfast"
+    },
+    {
+      "strMeal": "Fruit and Cream Cheese Breakfast Pastries",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/1543774956.jpg",
+      "idMeal": "52957",
+      "strCategory": "Breakfast"
+    },
+    {
+      "strMeal": "Ayam Percik",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/020z181619788503.jpg",
+      "idMeal": "53050",
+      "strCategory": "Chicken"
+    },
+    {
+      "strMeal": "Brown Stew Chicken",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/sypxpx1515365095.jpg",
+      "idMeal": "52940",
+      "strCategory": "Chicken"
+    },
+    {
+      "strMeal": "Chick-Fil-A Sandwich",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/sbx7n71587673021.jpg",
+      "idMeal": "53016",
+      "strCategory": "Chicken"
+    },
+    {
+      "strMeal": "Apam balik",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/adxcbq1619787919.jpg",
+      "idMeal": "53049",
+      "strCategory": "Dessert"
+    },
+    {
+      "strMeal": "Apple & Blackberry Crumble",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/xvsurr1511719182.jpg",
+      "idMeal": "52893",
+      "strCategory": "Dessert"
+    },
+    {
+      "strMeal": "Apple Frangipan Tart",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg",
+      "idMeal": "52768",
+      "strCategory": "Dessert"
+    },
+    {
+      "strMeal": "Mbuzi Choma (Roasted Goat)",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/cuio7s1555492979.jpg",
+      "idMeal": "52968",
+      "strCategory": "Goat"
+    },
+    {
+      "strMeal": "Kapsalon",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/sxysrt1468240488.jpg",
+      "idMeal": "52769",
+      "strCategory": "Lamb"
+    },
+    {
+      "strMeal": "Keleya Zaara",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/8x09hy1560460923.jpg",
+      "idMeal": "52974",
+      "strCategory": "Lamb"
+    },
+    {
+      "strMeal": "Lamb and Lemon Souvlaki",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/rjhf741585564676.jpg",
+      "idMeal": "53009",
+      "strCategory": "Lamb"
+    },
+    {
+      "strMeal": "Bean & Sausage Hotpot",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/vxuyrx1511302687.jpg",
+      "idMeal": "52848",
+      "strCategory": "Miscellaneous"
+    },
+    {
+      "strMeal": "Callaloo Jamaican Style",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/ussyxw1515364536.jpg",
+      "idMeal": "52939",
+      "strCategory": "Miscellaneous"
+    },
+    {
+      "strMeal": "Chakchouka ",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/gpz67p1560458984.jpg",
+      "idMeal": "52969",
+      "strCategory": "Miscellaneous"
+    },
+    {
+      "strMeal": "Chilli prawn linguine",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/usywpp1511189717.jpg",
+      "idMeal": "52839",
+      "strCategory": "Pasta"
+    },
+    {
+      "strMeal": "Fettuccine Alfredo",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/0jv5gx1661040802.jpg",
+      "idMeal": "53064",
+      "strCategory": "Pasta"
+    },
+    {
+      "strMeal": "Fettucine alfredo",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/uquqtu1511178042.jpg",
+      "idMeal": "52835",
+      "strCategory": "Pasta"
+    },
+    {
+      "strMeal": " Bubble & Squeak",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/xusqvw1511638311.jpg",
+      "idMeal": "52885",
+      "strCategory": "Pork"
+    },
+    {
+      "strMeal": "BBQ Pork Sloppy Joes",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/atd5sh1583188467.jpg",
+      "idMeal": "52995",
+      "strCategory": "Pork"
+    },
+    {
+      "strMeal": "Bigos (Hunters Stew)",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/md8w601593348504.jpg",
+      "idMeal": "53018",
+      "strCategory": "Pork"
+    },
+    {
+      "strMeal": "Baked salmon with fennel & tomatoes",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+      "idMeal": "52959",
+      "strCategory": "Seafood"
+    },
+    {
+      "strMeal": "Cajun spiced fish tacos",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+      "idMeal": "52819",
+      "strCategory": "Seafood"
+    },
+    {
+      "strMeal": "Escovitch Fish",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/1520084413.jpg",
+      "idMeal": "52944",
+      "strCategory": "Seafood"
+    },
+    {
+      "strMeal": "Boulang\u00e8re Potatoes",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/qywups1511796761.jpg",
+      "idMeal": "52914",
+      "strCategory": "Side"
+    },
+    {
+      "strMeal": "Brie wrapped in prosciutto & brioche",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/qqpwsy1511796276.jpg",
+      "idMeal": "52913",
+      "strCategory": "Side"
+    },
+    {
+      "strMeal": "Burek",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/tkxquw1628771028.jpg",
+      "idMeal": "53060",
+      "strCategory": "Side"
+    },
+    {
+      "strMeal": "Broccoli & Stilton soup",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/tvvxpv1511191952.jpg",
+      "idMeal": "52842",
+      "strCategory": "Starter"
+    },
+    {
+      "strMeal": "Clam chowder",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/rvtvuw1511190488.jpg",
+      "idMeal": "52840",
+      "strCategory": "Starter"
+    },
+    {
+      "strMeal": "Cream Cheese Tart",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/wurrux1468416624.jpg",
+      "idMeal": "52779",
+      "strCategory": "Starter"
+    },
+    {
+      "strMeal": "Roast fennel and aubergine paella",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/1520081754.jpg",
+      "idMeal": "52942",
+      "strCategory": "Vegan"
+    },
+    {
+      "strMeal": "Vegan Chocolate Cake",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/qxutws1486978099.jpg",
+      "idMeal": "52794",
+      "strCategory": "Vegan"
+    },
+    {
+      "strMeal": "Vegan Lasagna",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/rvxxuy1468312893.jpg",
+      "idMeal": "52775",
+      "strCategory": "Vegan"
+    },
+    {
+      "strMeal": "Baingan Bharta",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+      "idMeal": "52807",
+      "strCategory": "Vegetarian"
+    },
+    {
+      "strMeal": "Chickpea Fajitas",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/tvtxpq1511464705.jpg",
+      "idMeal": "52870",
+      "strCategory": "Vegetarian"
+    },
+    {
+      "strMeal": "Crispy Eggplant",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/c7lzrl1683208757.jpg",
+      "idMeal": "53072",
+      "strCategory": "Vegetarian"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.category {
+  margin: 0;
+  font-size: 14px;
+  font-weight: 700;
+  color: rgb(243, 164, 91);
+  opacity: 0.5;
+}
